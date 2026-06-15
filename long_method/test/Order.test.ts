@@ -1,4 +1,4 @@
-import { describe, it } from "mocha";
+import { describe, it } from "node:test";
 import assert from "assert";
 
 import { Order, OrderItem, Customer, OrderSummary } from "../src/Order";
